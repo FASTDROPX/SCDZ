@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="solving_tests">
+        <item quantity="other">%1$d тестов</item>
+        <item quantity="zero">%1$d тестов</item>
+        <item quantity="one">%1$d тест</item>
+        <item quantity="two">%1$d теста</item>
+        <item quantity="few">%1$d теста</item>
+        <item quantity="many">%1$d тестов</item>
+    </plurals>
+    <plurals name="tests_selected">
+        <item quantity="other">Выбрано %1$d тестов</item>
+        <item quantity="zero">Выбрано %1$d тестов</item>
+        <item quantity="one">Выбран %1$d тест</item>
+        <item quantity="two">Выбрано %1$d теста</item>
+        <item quantity="few">Выбрано %1$d теста</item>
+        <item quantity="many">Выбрано %1$d тестов</item>
+    </plurals>
+    <plurals name="unsolved_tests">
+        <item quantity="other">%1$d нерешенных тестов</item>
+        <item quantity="zero">%1$d нерешенных тестов</item>
+        <item quantity="one">%1$d нерешенный тест</item>
+        <item quantity="two">%1$d нерешенных теста</item>
+        <item quantity="few">%1$d нерешенных теста</item>
+        <item quantity="many">%1$d нерешенных тестов</item>
+    </plurals>
+</resources>

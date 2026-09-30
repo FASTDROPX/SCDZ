@@ -1,0 +1,6 @@
+package o5;
+
+/* loaded from: classes.dex */
+public interface b {
+    Object f();
+}

@@ -1,0 +1,22 @@
+.class public interface abstract Landroidx/work/impl/model/PreferenceDao;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+
+# virtual methods
+.method public abstract getLongValue(Ljava/lang/String;)Ljava/lang/Long;
+.end method
+
+.method public abstract getObservableLongValue(Ljava/lang/String;)Landroidx/lifecycle/c0;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "(",
+            "Ljava/lang/String;",
+            ")",
+            "Landroidx/lifecycle/c0;"
+        }
+    .end annotation
+.end method
+
+.method public abstract insertPreference(Landroidx/work/impl/model/Preference;)V
+.end method

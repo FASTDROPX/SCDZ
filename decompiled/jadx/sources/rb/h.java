@@ -1,0 +1,8 @@
+package rb;
+
+import java.util.Iterator;
+
+/* loaded from: classes.dex */
+public interface h {
+    Iterator iterator();
+}
